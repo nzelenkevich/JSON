@@ -1,4 +1,5 @@
-“Issue Title”: “Windows – Product Details Page – The product image can't be zoomed in”,
+{
+  “Issue Title”: “Windows – Product Details Page – The product image can't be zoomed in”,
 “Issue Type”: “Visual”,
 “Frequency”: “Every Time”,
 “Priority”: “Low”,
@@ -13,3 +14,4 @@
 “Expected Result”: “A zoomed image of the product is shown”,
 “Actual Result”: “The image is broken”,
 “Error Message”: “There is no error message”
+}

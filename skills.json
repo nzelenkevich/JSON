@@ -1,5 +1,6 @@
 {"Skills": 
-[ "Knowledge of different types of testing",
+[ 
+  "Theory of testing",
 "Reporting skills", 
 "Basic knowledge of Linux commands", 
 "Mobile testing", 
@@ -10,8 +11,9 @@
 "Postman", 
 "Charles", 
 "Fiddler", 
-"Dev Tols", 
+"Dev Tools", 
 "GitHub", 
 "Agile scrum methology", 
-"etc." ]
+"etc."
+]
 }
